@@ -1,6 +1,5 @@
 /*In this file I use C to control the blinking of an led using dalay.*/
 
-
 #include "header.h"
 
 void setup() {
