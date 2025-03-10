@@ -1,4 +1,5 @@
-Using an Arduino Uno but learning maining the ATMEL328P microprocessor in this and using the datasheet provided by the ATMEL  organisation.
+Using an ATMEL328P microprocessor in this project trying to learn the basics of C in the practical world and using 
+the datasheet provided by the ATMEL  organisation.
 
 The orginal work is done in WorkWi simulation the link is provided below.
 
